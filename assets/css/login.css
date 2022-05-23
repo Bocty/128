@@ -30,8 +30,7 @@ body {
     padding: 0 30px;
 }
 
-#link_login,
-#link_reg {
+.link {
     display: flex;
     justify-content: flex-end;
     font-size: 12px;
@@ -39,16 +38,14 @@ body {
 
 .layui-form-item {
     position: relative;
-  }
-  
-  .layui-icon {
+}
+
+.layui-icon {
     position: absolute;
     top: 10px;
     left: 10px;
-  }
-  
-  .layui-input {
-    padding-left: 32px;
-  }
+}
 
- 
+.layui-input {
+    padding-left: 32px;
+}

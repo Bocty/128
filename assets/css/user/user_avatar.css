@@ -69,6 +69,7 @@ body {
     overflow: hidden;
     border-radius: 50%;
 }
+
 /* 隐藏文件上传框 */
 #file {
     display: none;
